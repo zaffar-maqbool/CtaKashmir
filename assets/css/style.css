@@ -1296,3 +1296,18 @@ address {
   .container { max-width: 1180px; }
 
 }
+
+a{
+  list-style: none;
+  color: white;
+}
+#mainLogo {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
